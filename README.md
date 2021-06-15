@@ -25,7 +25,7 @@ Sendo que cada comentário devem pertencer a um post.
 2º - Configure a ormconfig.json que esta na raiz do projeto com username, password, porta do seu banco de dados
 em seguida rode as migrations:
 
--> yarn typeorm migrations:run 
+  > yarn typeorm migrations:run 
 
 3º - Instale as dependecias do seu projeto:
 
@@ -33,7 +33,7 @@ em seguida rode as migrations:
 
 4º -  E por fim execute o Projeto 
 
--> yarn dev
+  > yarn dev
 
 ### Referências:
 
