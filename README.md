@@ -20,7 +20,7 @@ Sendo que cada comentário devem pertencer a um post.
 
 ## Execução do Projeto  
 
-1º - Tenha o postgres instalado ou um container Docker
+1º - Tenha o PostgreSQL instalado ou um container Docker
 
 2º - Configure a ormconfig.json que esta na raiz do projeto com username, password, porta do seu banco de dados
 em seguida rode as migrations:
