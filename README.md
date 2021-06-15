@@ -29,7 +29,7 @@ em seguida rode as migrations:
 
 3º - Instale as dependecias do seu projeto:
 
--> yarn install
+  > yarn install
 
 4º -  E por fim execute o Projeto 
 
